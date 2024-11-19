@@ -1,0 +1,32 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     44.16961258 deg
+Longitude:    -77.08645285 deg
+Altitude ASL: 104.1430 m (341.6767 ft)
+37Heading:      183.3 deg
+Ground Elev:  87.0567 m (285.6192 ft)
+
+# w080n40/w078n44/1679755.stg
+OBJECT_STATIC -77.08645285 44.16961258 87.0567 176.7
+
+http://maps.google.com/maps?ll=44.1696125788,-77.0864528488&z=12&t=h
+$ fgfs --aircraft=ufo --lat=44.169613 --lon=-77.086453 --altitude=341.68 --heading=182.3
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/quinte-skyway/quinte-skyway.xml
+Latitude:     44.17265566 deg
+Longitude:    -77.08656908 deg
+Altitude ASL: 73.9929 m (242.7589 ft)
+Heading:      -1.8 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/quinte-skyway/quinte-skyway.xml -77.08656908 44.17265566 73.9929 1.8 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/quinte-skyway/quinte-skyway.xml -77.08656908 44.17265566 73.9929 1.8 -0.0 0.0 -0.0
