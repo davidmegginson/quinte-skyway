@@ -1,7 +1,7 @@
 FG_SCENERY=${HOME}/Dropbox/FlightGear/local-scenery-mods
 
-VIEW_LAT=44.17362392
-VIEW_LON=-77.07270782
+VIEW_LAT=44.17391841
+VIEW_LON=-77.08442523
 VIEW_HDG=272
 VIEW_ALT=500
 
@@ -13,7 +13,8 @@ TARGET_DIR=Objects/w080n40/w078n44/
 
 FILES=quinte-skyway.ac \
   quinte-skyway.xml \
-  quinte-skyway1.png
+  quinte-skyway1.png \
+  quinte-skyway2.png
 
 install:
 	cp ${FILES} ${FG_SCENERY}/${TARGET_DIR}
