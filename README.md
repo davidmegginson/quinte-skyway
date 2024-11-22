@@ -5,7 +5,7 @@ Low-polygon model of the Quinte Skyway, a bridge across the Bay of Quinte (off L
 
 ![Daytime screenshot in FlightGear](screenshot.png)
 
-![Nighttime screenshot in FlightGear](screenshot.png)
+![Nighttime screenshot in FlightGear](screenshot-night.png)
 
 ## UnLicense
 
