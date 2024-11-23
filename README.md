@@ -7,7 +7,8 @@ Low-polygon model of the Quinte Skyway, a bridge across the Bay of Quinte (off L
 
 ![Nighttime screenshot in FlightGear](screenshot-night.png)
 
-Closest airport: [Tyendinaga Mohawk](https://ourairports.com/airports/CPU6/) (CPU6).
+Closest airport: [Tyendinaga Mohawk](https://ourairports.com/airports/CPU6) (CPU6)
+
 
 ## UnLicense
 
